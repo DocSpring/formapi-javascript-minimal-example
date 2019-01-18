@@ -1,0 +1,16 @@
+{
+  "name": "jstest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "formapi": "^2.6.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "babel-jest": "^23.6.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "jest": "^23.6.0"
+  }
+}
